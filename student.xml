@@ -1,0 +1,39 @@
+
+<student>
+       <Name>John Doe</Name>
+       <Age>20</Age>
+       <Major>Computer Science</Major>
+	    <Address>
+        <PermAddress>
+		 <Street>123 Main St</Street>
+		 <City>Anytown</City>
+		 <State>CA</State>
+		 <Zip>12345</Zip>
+        </PermAddress>
+        <CurrAddress>
+         <Street>456 College Ave</Street>
+         <City>Anytown</City>
+         <State>CA</State>
+         <Zip>12345</Zip>
+        </CurrAddress>  
+        </Address>
+ </student>
+<student>
+    <Name>John Doe</Name>
+    <Age>20</Age>
+    <Major>Computer Science</Major>
+	<Address>
+        <PermAddress>
+		 <Street>123 Main St</Street>
+		 <City>Anytown</City>
+		 <State>CA</State>
+		 <Zip>12345</Zip>
+        </PermAddress>
+        <CurrAddress>
+         <Street>456 College Ave</Street>
+         <City>Anytown</City>
+         <State>CA</State>
+         <Zip>12345</Zip>
+        </CurrAddress>  
+    </Address>
+  </student>
