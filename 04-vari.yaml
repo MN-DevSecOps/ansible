@@ -6,6 +6,5 @@
     TRAINER : "MN"
     DURATION : "2 months"
   tasks :
-    - name : demo on variables
-      debug :
+    -debug :
        msg : "hello  iam learning {{ COURSE }} with {{ TRAINER }} for {{ DURATION }}"
