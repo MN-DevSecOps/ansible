@@ -1,0 +1,29 @@
+- name : "  MN" 
+  age : 20
+  grade : "A"
+  
+  addresses:
+- type : "permanent"
+  address : "  123 Main St"
+  name : "  John Doe"
+  age : 22
+
+- type : "temporary"
+  address : "  456 Elm St"
+  name : "  Jane Smith"
+  age : 19
+
+- name : "  MB" 
+  age : 20
+  grade : "A"
+  
+  addresses:
+- type : "permanent"
+  address : "  123 Main St"
+  name : "  John Doe"
+  age : 22
+
+- type : "temporary"
+  address : "  456 Elm St"
+  name : "  Jane Smith"
+  age : 19
