@@ -1,6 +1,6 @@
-- name: demo on inventory variabless
-  hosts: localhost
-  connection: localhost
+ name: demo on inventory variabless
+  hosts: local
+  connection: local
   tasks:
   - name: print information
     debug:
