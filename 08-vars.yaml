@@ -1,6 +1,6 @@
 - name: demo on inventory variabless
-  hosts: local
-  connection: local
+  hosts: frontend
+  connection: frontend
   tasks:
   - name: print information
     debug:
