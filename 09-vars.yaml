@@ -4,4 +4,4 @@
   tasks:
    - name: print name
       debug:
-      msg: "Hello {{ name }}"
+        msg: "Hi, I am learning {{ COURSE }}, Trainer is {{ TRAINER }}, Duration is {{ DURATION }}"   
